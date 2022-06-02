@@ -13,16 +13,38 @@ I am a person who has tried a lot of professions, but none of them brought pleas
 
 
 const assert = require("chai").assert;
+
+
 function multiply(a, b){
+
+
   return a * b;
+
+
 };
+
+
 describe("Multiply", () => {
+
+
   it("fixed tests", () => {
+
+
     assert.strictEqual(multiply(1,1), 1);
+
+
     assert.strictEqual(multiply(2,1), 2);
+
+
     assert.strictEqual(multiply(2,2), 4);
-    assert.strictEqual(multiply(3,5), 15);   
-  });
+
+
+    assert.strictEqual(multiply(3,5), 15);
+
+
+      });
+
+      
 });
 
 *No experience in the IT field yet.*
