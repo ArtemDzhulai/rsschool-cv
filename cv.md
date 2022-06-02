@@ -20,4 +20,9 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(3,5), 15);   
   });
 });
-6. *No experience in the IT field yet.*    
+6. *No experience in the IT field yet.* 
+7. 2 higher educations:
+    - ZGIA, specialty "Enterprise Economics" (2009)
+    - KPU, jurisprudence (2017)
+Courses in Code Basics for beginners in HTML, CSS and JS.
+8. A2 (*currently learning with Doulingo*).   
