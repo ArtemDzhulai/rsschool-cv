@@ -10,12 +10,11 @@ I am a person who has tried a lot of professions, but none of them brought pleas
 ***Skills:*** I'm starting from scratch, but for self-development I took initial courses for beginners in HTML, CSS and JS.
 
 **Code example**(*task to solve when registering on Codewars*):
-const assert = require("chai").assert;
 
+const assert = require("chai").assert;
 function multiply(a, b){
   return a * b;
 };
-
 describe("Multiply", () => {
   it("fixed tests", () => {
     assert.strictEqual(multiply(1,1), 1);
