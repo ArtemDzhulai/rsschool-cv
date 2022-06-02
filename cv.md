@@ -11,7 +11,7 @@ I am a person who has tried a lot of professions, but none of them brought pleas
 
 **Code example**(*task to solve when registering on Codewars*):
 
-
+```
 const assert = require("chai").assert;
 
 
@@ -44,9 +44,9 @@ describe("Multiply", () => {
 
       });
 
-      
-});
 
+});
+```
 *No experience in the IT field yet.*
 
 2 higher educations:
