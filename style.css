@@ -42,6 +42,7 @@ body{
 
 
 /*Main*/
+/*Profile*/
 .avatar{
     width: 600px;
     height: 400px;
@@ -50,4 +51,38 @@ body{
 
 .avatar_main{
     width: 50%;
+}
+
+.profile{
+    display: flex;
+}
+
+.name{
+    width: 50%;
+    text-align: center;
+    padding: 70px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.profession{
+    font-size: 30px;
+}
+
+.line_name{
+    border-bottom: 2px solid #396b00;
+}
+
+
+/*Contacts*/
+.big_line{
+    border-bottom: 15px solid #396b00;
+    margin: 10px 30px 0 30px;
+}
+
+.contacts{
+    
 }
