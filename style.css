@@ -42,6 +42,12 @@ body{
 
 
 /*Main*/
+.main_container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
 /*Profile*/
 main{
     font-size: 20px;
@@ -59,6 +65,7 @@ main{
 
 .profile{
     display: flex;
+    width: 100%;
 }
 
 .name{
@@ -85,13 +92,28 @@ h1 {
 .big_line{
     border-bottom: 15px solid grey;
     margin: 10px 30px 0 30px;
+    width: 100%;
 }
 
 .contacts{
-    padding: 0 0 0 50px;
+    margin: 0 10px 0 30px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
 }
 
 .h2_contacts{
-    padding: 0 0 0 50px;
+    padding: 0 0 0 30px;
+    color: #396b00;
+}
+
+
+/*Summary*/
+.summary{
+    margin: 0 30px 0 10px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+}
+
+.h2_summary{
     color: #396b00;
 }
