@@ -156,3 +156,26 @@ h1 {
     width: calc(50% - 40px);
     border-bottom: 1px solid brown;
  }
+
+
+ /*Projects*/
+ .h2_projects{
+    color: #396b00;
+    padding: 0 0 0 20px;
+ }
+
+ .projects{
+    margin: 0 30px 0 10px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+ }
+
+ .link_cv{
+     text-decoration: none;
+     color: #396b00;
+ }
+
+ .link_cv:hover{
+     color: orange;
+     text-decoration: underline;
+ }
