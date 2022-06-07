@@ -43,6 +43,10 @@ body{
 
 /*Main*/
 /*Profile*/
+main{
+    font-size: 20px;
+}
+
 .avatar{
     width: 600px;
     height: 400px;
@@ -79,10 +83,15 @@ h1 {
 
 /*Contacts*/
 .big_line{
-    border-bottom: 15px solid #396b00;
+    border-bottom: 15px solid grey;
     margin: 10px 30px 0 30px;
 }
 
 .contacts{
-    
+    padding: 0 0 0 50px;
+}
+
+.h2_contacts{
+    padding: 0 0 0 50px;
+    color: #396b00;
 }
