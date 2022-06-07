@@ -143,3 +143,16 @@ h1 {
     width: calc(50% - 40px);
     border-bottom: 1px solid brown;
  }
+
+
+ /*Courses*/
+ .h2_courses{
+    color: #396b00;
+    padding: 0 0 0 20px;
+ }
+
+ .courses{
+    margin: 0 10px 0 30px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+ }
