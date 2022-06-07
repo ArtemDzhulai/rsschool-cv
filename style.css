@@ -26,7 +26,6 @@ body{
     background-color: #396b00;
     margin: 0;
     padding: 10px;
-    font-weight: bolder;
 }
 
 .menu_link{
@@ -190,5 +189,57 @@ h1 {
  .education{
     margin: 0 10px 0 30px;
     width: calc(50% - 40px);
-    border-bottom: 1px solid brown;
  }
+
+
+ /*English*/
+ .h2_english{
+    color: #396b00;
+    padding: 0 0 0 20px;
+ }
+
+ .english{
+    margin: 0 30px 0 10px;
+    width: calc(50% - 40px);
+ }
+
+
+ /*Footer*/
+ footer{
+     background-color: #396b00;
+     font-size: 20px;
+     padding: 5px;
+     color: white;
+     display: flex;
+ }
+
+ .year{
+     margin: 0 0 0 30px;
+     word-spacing: 10px;
+ }
+
+ .link_github{
+     text-decoration: none;
+     color: white;
+ }
+
+ .link_github:hover{
+    text-decoration: underline;
+ }
+
+ .rss_logo{
+     width: 200px;
+     height: 50px;
+     padding: 10px 0 0 0;
+ }
+
+ .img_footer{
+     position: absolute;
+     right: 0px;
+ }
+
+ @media (max-width: 768px) {
+    .profile, .contacts, .summary, .skills, .code, .courses, .projects, .education {
+      width: 100%;
+    }
+  }
