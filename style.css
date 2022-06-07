@@ -47,12 +47,12 @@ body{
     flex-wrap: wrap;
   }
 
-
-/*Profile*/
-main{
+  main{
     font-size: 20px;
 }
 
+
+/*Profile*/
 .avatar{
     width: 600px;
     height: 400px;
@@ -102,7 +102,7 @@ h1 {
 }
 
 .h2_contacts{
-    padding: 0 0 0 30px;
+    padding: 0 0 0 20px;
     color: #396b00;
 }
 
@@ -116,4 +116,17 @@ h1 {
 
 .h2_summary{
     color: #396b00;
+    padding: 0 0 0 20px;
 }
+
+
+/*Skills*/
+.h2_skills{
+    color: #396b00;
+    padding: 0 0 0 20px;
+}
+ .skills{
+    margin: 0 10px 0 30px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+ }
