@@ -179,3 +179,16 @@ h1 {
      color: orange;
      text-decoration: underline;
  }
+
+
+ /*Education*/
+ .h2_education{
+    color: #396b00;
+    padding: 0 0 0 20px;
+ }
+
+ .education{
+    margin: 0 10px 0 30px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+ }

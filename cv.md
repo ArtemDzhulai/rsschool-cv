@@ -52,6 +52,7 @@ describe("Multiply", () => {
 2 higher educations:
 - ZGIA, specialty "Enterprise Economics" (2009)
 - KPU, jurisprudence (2017)
+
 Courses in Code Basics for beginners in HTML, CSS and JS.
 
 A2 (*currently learning with Doulingo*).   
