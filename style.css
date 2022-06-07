@@ -130,3 +130,16 @@ h1 {
     width: calc(50% - 40px);
     border-bottom: 1px solid brown;
  }
+
+
+ /*Code*/
+ .h2_code{
+    color: #396b00;
+    padding: 0 0 0 20px;
+ }
+
+ .code{
+    margin: 0 30px 0 10px;
+    width: calc(50% - 40px);
+    border-bottom: 1px solid brown;
+ }
